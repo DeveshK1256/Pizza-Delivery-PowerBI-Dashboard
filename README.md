@@ -48,7 +48,6 @@ An interactive Power BI dashboard analyzing pizza orders and delivery performanc
 - Screenshots for documentation
 - Final project report (`PDF`)
 - README for GitHub viewers
-- (Optional) PowerPoint Summary
 
 ---
 ## 🔗 Live Demo / Report Access
