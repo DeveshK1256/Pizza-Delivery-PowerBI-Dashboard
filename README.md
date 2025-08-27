@@ -54,7 +54,6 @@ An interactive Power BI dashboard analyzing pizza orders and delivery performanc
 <img width="1867" height="836" alt="image" src="https://github.com/user-attachments/assets/986ec396-2bca-4891-bee3-f60fa2730784" />
 
 ![Screenshot 2025-07-09 223602](https://github.com/user-attachments/assets/a72bb7ad-0b68-453e-ad4a-fcc863c73649)
-![Screenshot 2025-07-09 125442](https://github.com/user-attachments/assets/d76ef1e1-0e84-4f56-8616-86bbdbe10d8e)
 
 ---
 
